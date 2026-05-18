@@ -1,82 +1,81 @@
-# Hi, I'm Buse Berfin Halefoğlu 👋
+# Buse Berfin Halefoğlu
 
-🎓 Computer Engineering student at Izmir Katip Celebi University  
-💻 Junior Backend Developer  
-🤖 Interested in Artificial Intelligence, NLP, Machine Translation, LLM Evaluation and Software Engineering  
-🚀 I enjoy building practical software projects that combine research, system design and real-world problem solving.
+Computer Engineering · Izmir Katip Celebi University · 4th year (2021–2026) · GPA: 3.08
+Backend development, NLP, LLM evaluation, speech processing.
 
 ---
 
-## 🛠️ Technologies & Tools
+## Tech stack
 
-![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-orange?logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-blue?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
-![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-green?logo=vuedotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-blue?logo=flutter&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-orange?logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-orange?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white)
+**Languages:** Python · Java · C · C++ · JavaScript
+**Frameworks:** Laravel · Vue.js · React · Flutter · PyTorch
+**Databases:** PostgreSQL · MySQL
+**Tools:** Git · GitHub · Docker
+**Concepts:** Algorithms & Data Structures · Design Patterns (Factory, Singleton, Observer)
 
 ---
 
-## 🌟 Featured Projects
+## Projects
 
-### 🌍✨ Emoji-to-Text Machine Translation
-An NLP and machine translation project that investigates whether emoji sequences can be treated as a source language and analyzes semantic shift in Turkish outputs using multilingual sentence embeddings.
+**Emoji-to-Text Machine Translation**
+NLP project investigating emoji sequences as a source language. Analyzed semantic shift in Turkish outputs using multilingual sentence embeddings.
+`Python` `sentence-transformers`
 
-### 🧠 Persona-Based Accuracy Evaluation of LLMs
-Evaluated Llama-3-8B on a TruthfulQA subset to analyze how different system prompt personas affect hallucination, accuracy, confidence and consistency.
+**Persona-Based LLM Accuracy Evaluation**
+Evaluated Llama-3-8B on a TruthfulQA subset to analyze how system prompt personas affect hallucination, accuracy, and consistency.
+`Python` `Llama-3-8B` `TruthfulQA`
 
-### 🎙️ WavLM-Based Speech Emotion Recognition System
-A deep learning graduation project focused on speech emotion recognition using WavLM, PyTorch, Librosa and transfer learning.
+**WavLM-Based Speech Emotion Recognition** *(graduation project)*
+Speech emotion recognition system using WavLM and transfer learning.
+`PyTorch` `WavLM` `Librosa`
 
-### 🌱 GreenCampus: Carbon Footprint Smart Campus Assistant
-Designed a smart campus assistant for tracking student carbon footprint, sustainability scores, rewards, leaderboards and admin analytics using software requirements engineering methods.
+**GreenCampus: Carbon Footprint Smart Campus Assistant**
+Smart campus assistant for tracking student carbon footprint, sustainability scores, rewards, leaderboards and admin analytics. Designed using software requirements engineering methods.
+`SRE` `system design`
 
-### ✂️ Optimization of Fabric Cutting Problem
-Developed an optimization-based solution using Python, NumPy and SciPy to reduce material waste in fabric cutting operations.
+**Optimization of Fabric Cutting Problem**
+Optimization-based approach to reduce material waste in fabric cutting operations.
+`Python` `NumPy` `SciPy`
 
-### 🏠 Microprocessor-Based Smart Home System
-A C-based embedded systems project focused on smart home automation and microprocessor-based control.
+**Python Game Using Design Patterns**
+A Python game built around Factory, Singleton, and Observer design patterns.
+`Python` `OOP` `Design Patterns`
 
----
+**IKCU-CENG Website**
+University department blog and web platform.
+`Vue.js` `PHP` `Laravel`
 
-## 💼 Experience
+**IEEE Katip Çelebi University Website**
+Web design project for the IEEE university branch.
+`HTML` `CSS` `JavaScript`
 
-### Software Developer Intern — Türk Tuborg
-Developed a web-based application in the field of IP management.
+**Smart Home Automation System**
+Microprocessor-based home automation with C-based embedded software.
+`C` `embedded systems`
 
-### Hardware Intern — NETONE Bilişim
-Gained experience in hardware processes, technical support, system setup and IT infrastructure.
-
-### European Solidarity Corps Volunteer — ANTER Romania
-Worked on international community-based projects involving volunteering, cultural exchange and social responsibility.
-
----
-
-## 📌 Interests
-
-- Backend Development
-- Artificial Intelligence
-- Natural Language Processing
-- Machine Translation
-- Large Language Model Evaluation
-- Speech Emotion Recognition
-- Software Requirements Engineering
-- Database Design
-- Web Development
-- Embedded Systems
+**Study.with.Berfin** *(in progress)*
+Educational content sharing platform.
+`HTML` `CSS` `JavaScript`
 
 ---
 
-## 📫 Connect with me
+## Experience
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Buse%20Berfin%20Halefoğlu-blue?logo=linkedin)](https://www.linkedin.com/in/buse-berfin-halefoglu/)
+**Software Developer Intern** · Türk Tuborg · Jul–Aug 2025
+Developed a web-based IP management application.
+
+**Hardware Intern** · NETONE Bilişim · Jul–Aug 2024
+Hardware processes, technical support, system setup, IT infrastructure.
+
+**ESC Volunteer** · ANTER, Romania, Dolj · Jul 17 – Aug 15, 2023
+International community projects, cultural exchange, social responsibility work.
+
+**Erasmus+ Exchange** · Denmark, Agerskov · May 18–28, 2022
+International collaboration for cultural and technical exchanges.
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Buse%20Berfin%20Halefo%C4%9Flu-blue?logo=linkedin)](https://www.linkedin.com/in/buse-berfin-halefoglu/)
 [![GitHub](https://img.shields.io/badge/GitHub-berfinhalefoglu-black?logo=github)](https://github.com/berfinhalefoglu)
