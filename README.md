@@ -17,8 +17,9 @@ Backend development, NLP, LLM evaluation, speech processing.
 
 ## Projects
 
-**Emoji-to-Text Machine Translation**
+**Child Speech Emotion Recognition**
 Mobile-based Speech Emotion Recognition (SER) project investigating child voice interactions using a fine-tuned WavLM model and FastAPI backend.
+
 **Emoji-to-Text Machine Translation**
 NLP project investigating emoji sequences as a source language. Analyzed semantic shift in Turkish outputs using multilingual sentence embeddings.
 `Python` `sentence-transformers`
