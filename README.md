@@ -17,8 +17,6 @@ Backend development, NLP, LLM evaluation, speech processing.
 
 ## Projects
 
-**Child Speech Emotion Recognition**
-Mobile-based Speech Emotion Recognition (SER) project investigating child voice interactions using a fine-tuned WavLM model and FastAPI backend.
 
 **Emoji-to-Text Machine Translation**
 NLP project investigating emoji sequences as a source language. Analyzed semantic shift in Turkish outputs using multilingual sentence embeddings.
@@ -28,7 +26,7 @@ NLP project investigating emoji sequences as a source language. Analyzed semanti
 Evaluated Llama-3-8B on a TruthfulQA subset to analyze how system prompt personas affect hallucination, accuracy, and consistency.
 `Python` `Llama-3-8B` `TruthfulQA`
 
-**WavLM-Based Speech Emotion Recognition** *(graduation project)*
+**WavLM-Based Child Speech Emotion Recognition** *(graduation project)*
 Speech emotion recognition system using WavLM and transfer learning.
 `PyTorch` `WavLM` `Librosa`
 
