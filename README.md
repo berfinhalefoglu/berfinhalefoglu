@@ -1,6 +1,6 @@
 # Buse Berfin Halefoğlu
 
-Computer Engineering · Izmir Katip Celebi University · 4th year (2021–2026) · GPA: 3.08
+Computer Engineering · Izmir Katip Celebi University · (2026) · GPA: 3.22
 Backend development, NLP, LLM evaluation, speech processing.
 
 ---
